@@ -4,4 +4,4 @@ The small code examples from the presentation are in [code](./code). To run the 
 I also used some source from [blackjack-simulator](https://github.com/tjakway/blackjack-simulator), particularly:
   * [card data declarations](https://github.com/tjakway/blackjack-simulator/blob/master/src/Jakway/Blackjack/Cards.hs).
   * [infinite shuffled deck of cards](https://github.com/tjakway/blackjack-simulator/blob/master/src/Jakway/Blackjack/CardOps.hs).
-  * You can also see more IO examples (if you heard the monad part of the talk at the end) in [the database source.](https://github.com/tjakway/blackjack-simulator/tree/master/src/Jakway/Blackjack/IO).
+  * You can also see more IO examples (if you heard the monad part of the talk at the end) in [the database source.](https://github.com/tjakway/blackjack-simulator/tree/master/src/Jakway/Blackjack/IO)
